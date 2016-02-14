@@ -33,7 +33,7 @@ namespace Hello_Operators_lect
                             {
                                 case 2:
                                     My_Binary();
-                                    Console.WriteLine("");
+                                    Console.WriteLine(""); //RV: Can we move this line outside the switch to avoid duplication in every case statement?
                                     break;
                                 case 1:
                                     My_strings();
@@ -137,7 +137,7 @@ namespace Hello_Operators_lect
             a_length = a_str.Length;
             b_length = b_str.Length;
             if (a_length == 0)
-                res_str = b_str;
+                res_str = b_str; //RV: If you use curly brace for one if/else statement, use them for the others too. It increases code readability and makes it less error prone.
             else if (b_length == 0)
                 res_str = a_str;
             else
