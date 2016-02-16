@@ -1,0 +1,6 @@
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\Laboratory_3\Laboratory_3\bin\Debug\Laboratory_3.exe.config
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\Laboratory_3\Laboratory_3\bin\Debug\Laboratory_3.exe
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\Laboratory_3\Laboratory_3\bin\Debug\Laboratory_3.pdb
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\Laboratory_3\Laboratory_3\obj\Debug\Laboratory_3.exe
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\Laboratory_3\Laboratory_3\obj\Debug\Laboratory_3.pdb
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\Laboratory_3\Laboratory_3\obj\Debug\Laboratory_3.csprojResolveAssemblyReference.cache
