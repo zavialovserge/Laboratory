@@ -1,0 +1,9 @@
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\Laboratorry1_2\Laboratorry1_2\bin\Debug\Laboratorry1_2.exe.config
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\Laboratorry1_2\Laboratorry1_2\bin\Debug\Laboratorry1_2.exe
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\Laboratorry1_2\Laboratorry1_2\bin\Debug\Laboratorry1_2.pdb
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\Laboratorry1_2\Laboratorry1_2\obj\Debug\Laboratorry1_2.csprojResolveAssemblyReference.cache
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\Laboratorry1_2\Laboratorry1_2\obj\Debug\Laboratorry1_2.exe
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\Laboratorry1_2\Laboratorry1_2\obj\Debug\Laboratorry1_2.pdb
+C:\Users\zavia\Desktop\BrainAcad\All labs\Laboratory.git\Laboratory1_1_3\Laboratorry1_2\bin\Debug\Laboratorry1_2.exe.config
+C:\Users\zavia\Desktop\BrainAcad\All labs\Laboratory.git\Laboratory1_1_3\Laboratorry1_2\obj\Debug\Laboratorry1_2.exe
+C:\Users\zavia\Desktop\BrainAcad\All labs\Laboratory.git\Laboratory1_1_3\Laboratorry1_2\obj\Debug\Laboratorry1_2.pdb
