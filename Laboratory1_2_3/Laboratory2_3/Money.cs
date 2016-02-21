@@ -42,11 +42,13 @@ namespace Laboratory2_3
         // 5) declare overloading of operator -- to decrease object of Money by 1
         public static Money operator --(Money money1)
         {
+            //RV: I think that it is better to decrease the amount of the same object and not create the new one
             Money money = new Money();
             money.Amount = --money1.Amount;
             return money;
         }
         // 6) declare overloading of operator * to increase object of Money 3 times
+        //RV: it should be Money and int types so that we can multiply money and integer value and receive money object with multiplied amount property
         public static Money operator *(Money money1, Money money2)
         {
             Money money = new Money();
@@ -56,6 +58,7 @@ namespace Laboratory2_3
         // 7) declare overloading of operator > and < to compare 2 objects of Money
         public static bool operator >(Money money1, Money money2)
         {
+            //RV: It can be shorter: return money1.Amount > money2.Amount;
             if (money1.Amount > money2.Amount)
                 return true;
             else
@@ -63,6 +66,7 @@ namespace Laboratory2_3
         }
         public static bool operator <(Money money1, Money money2)
         {
+            //RV: The same as above
             if (money1.Amount < money2.Amount)
                 return true;
             else

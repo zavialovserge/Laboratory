@@ -28,6 +28,8 @@ namespace Laboratory2_2
             message = _message;
 
         }
+
+        //RV: The message is not centered in the box.
         public void Draw()
         {
             if (setHeight > 0 || setWidth > 0 || setX > 0 || setY > 0)
