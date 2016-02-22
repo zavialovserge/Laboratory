@@ -1,0 +1,21 @@
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_3_1–lab\CSharp_Net-module1_3_1–lab\bin\Debug\CSharp_Net-module1_3_1–lab.exe.config
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_3_1–lab\CSharp_Net-module1_3_1–lab\bin\Debug\CSharp_Net-module1_3_1–lab.exe
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_3_1–lab\CSharp_Net-module1_3_1–lab\bin\Debug\CSharp_Net-module1_3_1–lab.pdb
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_3_1–lab\CSharp_Net-module1_3_1–lab\obj\Debug\CSharp_Net-module1_3_1–lab.csprojResolveAssemblyReference.cache
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_3_1–lab\CSharp_Net-module1_3_1–lab\obj\Debug\CSharp_Net-module1_3_1–lab.exe
+c:\users\svf\documents\visual studio 2013\Projects\CSharp_Net-module1_3_1–lab\CSharp_Net-module1_3_1–lab\obj\Debug\CSharp_Net-module1_3_1–lab.pdb
+C:\Users\svf\Downloads\Brain Academy\labs - sources\CSharp_Net-module1_3_1–lab\CSharp_Net-module1_3_1–lab\bin\Debug\CSharp_Net-module1_3_1–lab.exe.config
+C:\Users\svf\Downloads\Brain Academy\labs - sources\CSharp_Net-module1_3_1–lab\CSharp_Net-module1_3_1–lab\obj\Debug\CSharp_Net-module1_3_1–lab.exe
+C:\Users\svf\Downloads\Brain Academy\labs - sources\CSharp_Net-module1_3_1–lab\CSharp_Net-module1_3_1–lab\obj\Debug\CSharp_Net-module1_3_1–lab.pdb
+C:\Users\zavia\Desktop\BrainAcad\LAb3_1\CSharp_Net-module1_3_1-lab\CSharp_Net-module1_3_1-lab\bin\Debug\CSharp_Net-module1_3_1–lab.exe.config
+C:\Users\zavia\Desktop\BrainAcad\LAb3_1\CSharp_Net-module1_3_1-lab\CSharp_Net-module1_3_1-lab\bin\Debug\CSharp_Net-module1_3_1–lab.exe
+C:\Users\zavia\Desktop\BrainAcad\LAb3_1\CSharp_Net-module1_3_1-lab\CSharp_Net-module1_3_1-lab\bin\Debug\CSharp_Net-module1_3_1–lab.pdb
+C:\Users\zavia\Desktop\BrainAcad\LAb3_1\CSharp_Net-module1_3_1-lab\CSharp_Net-module1_3_1-lab\obj\Debug\CSharp_Net-module1_3_1–lab.exe
+C:\Users\zavia\Desktop\BrainAcad\LAb3_1\CSharp_Net-module1_3_1-lab\CSharp_Net-module1_3_1-lab\obj\Debug\CSharp_Net-module1_3_1–lab.pdb
+C:\Users\zavia\Desktop\BrainAcad\LAb3_1\CSharp_Net-module1_3_1-lab\CSharp_Net-module1_3_1-lab\obj\Debug\CSharp_Net-module1_3_1-lab.csprojResolveAssemblyReference.cache
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\laboratory1_3_1\CSharp_Net-module1_3_1-lab\bin\Debug\CSharp_Net-module1_3_1–lab.exe.config
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\laboratory1_3_1\CSharp_Net-module1_3_1-lab\obj\Debug\CSharp_Net-module1_3_1–lab.exe
+C:\Users\zavia\Desktop\BrainAcad\MyLabsForCommit\laboratory1_3_1\CSharp_Net-module1_3_1-lab\obj\Debug\CSharp_Net-module1_3_1–lab.pdb
+C:\Users\zavia\Desktop\BrainAcad\Comm\Laboratory1_3_1\CSharp_Net-module1_3_1-lab\bin\Debug\CSharp_Net-module1_3_1–lab.exe.config
+C:\Users\zavia\Desktop\BrainAcad\Comm\Laboratory1_3_1\CSharp_Net-module1_3_1-lab\obj\Debug\CSharp_Net-module1_3_1–lab.exe
+C:\Users\zavia\Desktop\BrainAcad\Comm\Laboratory1_3_1\CSharp_Net-module1_3_1-lab\obj\Debug\CSharp_Net-module1_3_1–lab.pdb
