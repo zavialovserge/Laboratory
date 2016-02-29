@@ -1,0 +1,5 @@
+C:\Users\zavia\Desktop\BrainAcad\MyLabs\Laboratory1_3_2\Laboratory1_3_2\bin\Debug\Laboratory1_3_2.exe.config
+C:\Users\zavia\Desktop\BrainAcad\MyLabs\Laboratory1_3_2\Laboratory1_3_2\bin\Debug\Laboratory1_3_2.exe
+C:\Users\zavia\Desktop\BrainAcad\MyLabs\Laboratory1_3_2\Laboratory1_3_2\bin\Debug\Laboratory1_3_2.pdb
+C:\Users\zavia\Desktop\BrainAcad\MyLabs\Laboratory1_3_2\Laboratory1_3_2\obj\Debug\Laboratory1_3_2.exe
+C:\Users\zavia\Desktop\BrainAcad\MyLabs\Laboratory1_3_2\Laboratory1_3_2\obj\Debug\Laboratory1_3_2.pdb
